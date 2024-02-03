@@ -2466,3 +2466,28 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.03-04.03.32:746][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.02.03-04.03.32:751][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
 [2024.02.03-04.03.32:805][905]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.02.03-04.04.01:107][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.02.03-04.04.01:109][160]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.027
+[2024.02.03-04.04.01:110][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2024.02.03-04.04.01:110][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2024.02.03-04.04.01:159][160]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto2
+[2024.02.03-04.04.01:160][160]LogSavePackage: Moving '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Saved/BP_Player_Auto2D1AD7F3F481D82792F66C1B5A2EA69C0.tmp' to '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto2.uasset'
+[2024.02.03-04.04.01:162][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([2] browsable assets)...
+[2024.02.03-04.04.01:163][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2024.02.03-04.04.01:183][160]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto2
+[2024.02.03-04.04.01:183][160]LogSavePackage: Moving '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Saved/BP_Tunnel_Auto2BBE1AB3D4E50D35C1F93A69B47804F71.tmp' to '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto2.uasset'
+[2024.02.03-04.04.01:185][160]LogFileHelpers: Auto-saving content packages took 0.075
+[2024.02.03-04.04.04:708][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.02.03-04.04.05:866][343]LogSlate: Window 'Save Content' being destroyed
+[2024.02.03-04.04.05:891][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.03-04.04.06:121][343]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Player
+[2024.02.03-04.04.06:122][343]LogSavePackage: Moving '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Saved/BP_Player8E2377A44116474FBAB26F828A79E0BD.tmp' to '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2024.02.03-04.04.06:146][343]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Tunnel
+[2024.02.03-04.04.06:147][343]LogSavePackage: Moving '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Saved/BP_Tunnel4D5A3E9143DB691611C973B6508B869E.tmp' to '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2024.02.03-04.04.06:161][343]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/UI/WB_GameplayUI
+[2024.02.03-04.04.06:163][343]LogSavePackage: Moving '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Saved/WB_GameplayUI0D88CB50470DC25B11D13F9D5CD45E11.tmp' to '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Content/InfiniteMatrix/UI/WB_GameplayUI.uasset'
+[2024.02.03-04.04.06:185][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 294 ms
+[2024.02.03-04.04.06:190][343]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.03-04.04.06:191][343]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2024.02.03-04.04.06:191][343]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2024.02.03-04.04.06:191][343]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/InfiniteMatrix/UI/WB_GameplayUI.WB_GameplayUI
