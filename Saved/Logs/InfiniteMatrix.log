@@ -1185,3 +1185,24 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.02.03-02.55.13:030][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.02.03-02.55.13:059][  2]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.02.03-02.55.20:526][448]LogEditorViewport: Clicking Background
+[2024.02.03-02.56.13:092][759]LogDerivedDataCache: C:/Users/iiFor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.091 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 699 files in 1264 folders with total size 26 MiB.
+[2024.02.03-02.57.32:985][495]LogAutomationController: Ignoring very large delta of 2.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.03-02.57.34:517][577]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.02.03-02.57.34:525][577]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.02.03-02.57.39:247][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.03-02.57.39:314][831]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.03-02.57.58:789][968]LogContentBrowser: Attempting asset rename: 9047717 -> HealSign
+[2024.02.03-02.57.58:831][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.03-02.57.58:938][968]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.006437 seconds
+[2024.02.03-02.57.58:942][968]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/UI/WBP_HealIndicator
+[2024.02.03-02.57.58:943][968]LogSavePackage: Moving '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Saved/WBP_HealIndicator785592784BA29737D3455C92C8626A55.tmp' to '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Content/InfiniteMatrix/UI/WBP_HealIndicator.uasset'
+[2024.02.03-02.57.58:948][968]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Textures/HealSign
+[2024.02.03-02.57.58:948][968]LogSavePackage: Moving '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Saved/HealSignC4CA582B46D8EB07AA099497D0763A5B.tmp' to '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Content/InfiniteMatrix/Textures/HealSign.uasset'
+[2024.02.03-02.57.58:966][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms
+[2024.02.03-02.57.58:975][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.02.03-02.57.58:980][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.03-02.57.58:986][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.02.03-02.57.58:989][968]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.03-02.57.58:989][968]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_HealIndicator.WBP_HealIndicator
+[2024.02.03-02.57.58:990][968]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/InfiniteMatrix/Textures/HealSign.HealSign
+[2024.02.03-02.59.34:162][931]LogEditorViewport: Clicking Background
