@@ -1601,3 +1601,12 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.02.03-03.14.42:553][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
 [2024.02.03-03.14.42:565][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
 [2024.02.03-03.14.42:593][370]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.02.03-03.18.39:304][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.02.03-03.18.41:260][338]LogSlate: Window 'Save Content' being destroyed
+[2024.02.03-03.18.41:271][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.03-03.18.41:412][338]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Tunnel
+[2024.02.03-03.18.41:413][338]LogSavePackage: Moving '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Saved/BP_TunnelCB1B56C747975E2304217DB424726350.tmp' to '../../../../../../Users/iiFor/Downloads/InfiniteMatrixStarterProject/CS415MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2024.02.03-03.18.41:423][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 487 ms)
+[2024.02.03-03.18.41:426][338]AssetCheck: New page: Asset Save: BP_Tunnel
+[2024.02.03-03.18.41:426][338]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2024.02.03-03.18.41:430][339]LogAutomationController: Ignoring very large delta of 2.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
